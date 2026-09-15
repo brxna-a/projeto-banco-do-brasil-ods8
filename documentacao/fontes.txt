@@ -1,0 +1,16 @@
+FONTES
+
+Banco Central do Brasil
+Ranking de Instituições por Índice de Reclamações
+https://dadosabertos.bcb.gov.br/dataset/ranking-de-instituicoes-por-indice-de-reclamacoes
+
+Histórico do Ranking de Reclamações
+https://www3.bcb.gov.br/ranking/historico.do
+
+Entenda o Ranking de Reclamações
+https://www.bcb.gov.br/estabilidadefinanceira/rankingreclamacoesentenda
+
+Documentação do conjunto de dados
+https://www.bcb.gov.br/conteudo/dadosabertos/BCBDeati/Documentacao%20do%20Conjunto%20de%20dados%20-%20Ranking.pdf
+
+Recorte do projeto: 2025 T1 a 2026 T2.
