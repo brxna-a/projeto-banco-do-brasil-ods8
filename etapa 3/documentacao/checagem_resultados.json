@@ -1,0 +1,21 @@
+{
+  "arquivos_esperados": 6,
+  "registros_bb": 6,
+  "indice_media": 22.81,
+  "indice_mediana": 21.375,
+  "indice_min": 16.22,
+  "indice_max": 32.68,
+  "indice_desvio_padrao": 5.78738,
+  "clientes_inicio": 78676764,
+  "clientes_fim": 84086146,
+  "indice_2026_t2": 32.68,
+  "teste_sintaxe_python": "ok",
+  "teste_execucao_estrutura_bcb": "ok",
+  "comparadores_localizados": [
+    "BB (conglomerado)",
+    "CAIXA ECONÔMICA FEDERAL (conglomerado)",
+    "NU PAGAMENTOS (conglomerado)",
+    "BRADESCO (conglomerado)",
+    "ITAU (conglomerado)"
+  ]
+}
